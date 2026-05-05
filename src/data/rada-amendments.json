@@ -1,0 +1,693 @@
+{
+  "source": "https://zakon.rada.gov.ua",
+  "updated": "2026-05-04",
+  "count": 66,
+  "amendments": [
+    {
+      "lawId": "2755-17",
+      "title": "Податковий кодекс України №2755-VI — пільги УБД",
+      "url": "https://zakon.rada.gov.ua/laws/show/2755-17",
+      "lastEditionDate": "2026-11-01",
+      "editionCount": 240,
+      "previousEditionDate": "2026-04-15",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1058-15",
+      "title": "Закон України від 09.07.2003 № 1058-IV «Про загальнообов’язкове державне пенсійне страхування»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1058-15",
+      "lastEditionDate": "2026-08-02",
+      "editionCount": 115,
+      "previousEditionDate": "2026-01-26",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "957-2021-п",
+      "title": "Постанова Кабінету Міністрів України від 25.08.2021 № 957 «Деякі питання ведення Єдиного реєстру осіб, зниклих безвісти за особливих обставин»",
+      "url": "https://zakon.rada.gov.ua/laws/show/957-2021-%D0%BF",
+      "lastEditionDate": "2026-08-01",
+      "editionCount": 5,
+      "previousEditionDate": "2025-10-31",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "3543-12",
+      "title": "Закон України № 3543-XII «Про мобілізаційну підготовку та мобілізацію»",
+      "url": "https://zakon.rada.gov.ua/laws/show/3543-12",
+      "lastEditionDate": "2026-07-31",
+      "editionCount": 46,
+      "previousEditionDate": "2026-04-12",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2145-19",
+      "title": "Закон України №2145-VIII — освіта",
+      "url": "https://zakon.rada.gov.ua/laws/show/2145-19",
+      "lastEditionDate": "2026-07-31",
+      "editionCount": 48,
+      "previousEditionDate": "2026-01-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1734-19",
+      "title": "Закон України від 10.12.2015 № 898-VIII «Про споживче кредитування» (з урахуванням воєнних змін)",
+      "url": "https://zakon.rada.gov.ua/laws/show/1734-19",
+      "lastEditionDate": "2026-07-30",
+      "editionCount": 18,
+      "previousEditionDate": "2024-11-15",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2011-12",
+      "title": "Закон України № 2011-XII «Про соціальний і правовий захист військовослужбовців та членів їх сімей»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2011-12",
+      "lastEditionDate": "2026-05-10",
+      "editionCount": 109,
+      "previousEditionDate": "2026-02-15",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "332-2022-п",
+      "title": "Постанова КМУ № 252 «Про затвердження Порядку надання грошової компенсації за оренду житла»",
+      "url": "https://zakon.rada.gov.ua/laws/show/332-2022-%D0%BF",
+      "lastEditionDate": "2026-04-25",
+      "editionCount": 36,
+      "previousEditionDate": "2026-04-21",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1105-14",
+      "title": "Закон України №1105-XIV — соцстрахування",
+      "url": "https://zakon.rada.gov.ua/laws/show/1105-14",
+      "lastEditionDate": "2026-04-24",
+      "editionCount": 70,
+      "previousEditionDate": "2026-04-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "738-2022-п",
+      "title": "Постанова КМУ № 738 «Про експериментальний проєкт мікрогрантів «єРобота»»",
+      "url": "https://zakon.rada.gov.ua/laws/show/738-2022-%D0%BF",
+      "lastEditionDate": "2026-04-24",
+      "editionCount": 33,
+      "previousEditionDate": "2026-04-11",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2341-14",
+      "title": "Кримінальний кодекс України, Розділ XIX «Кримінальні правопорушення проти встановленого порядку несення військової служби (військові кримінальні правопорушення)»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2341-14",
+      "lastEditionDate": "2026-04-15",
+      "editionCount": 243,
+      "previousEditionDate": "2025-07-17",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "3633-20",
+      "title": "Закон України № 3633-IX «Про внесення змін до деяких законодавчих актів України щодо окремих питань проходження військової служби, мобілізації та військового обліку» (квітень 2024)",
+      "url": "https://zakon.rada.gov.ua/laws/show/3633-20",
+      "lastEditionDate": "2026-04-12",
+      "editionCount": 2,
+      "previousEditionDate": "2024-04-11",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2232-12",
+      "title": "Закон України № 2232-XII «Про військовий обовʼязок і військову службу»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2232-12",
+      "lastEditionDate": "2026-04-12",
+      "editionCount": 148,
+      "previousEditionDate": "2026-01-15",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "700-2019-п",
+      "title": "Постанова КМУ №700-2019-п — Реєстр ветеранів війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/700-2019-%D0%BF",
+      "lastEditionDate": "2026-04-03",
+      "editionCount": 20,
+      "previousEditionDate": "2026-02-13",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "302-94-п",
+      "title": "Постанова КМУ №302-94-п — посвідчення ветеранів війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/302-94-%D0%BF",
+      "lastEditionDate": "2026-04-03",
+      "editionCount": 42,
+      "previousEditionDate": "2025-11-28",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2136-20",
+      "title": "Закон України №2136-IX — трудові відносини під час війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/2136-20",
+      "lastEditionDate": "2026-03-14",
+      "editionCount": 8,
+      "previousEditionDate": "2025-12-04",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1338-2024-п",
+      "title": "Постанова Кабінету Міністрів України від 15.11.2024 № 1338 «Деякі питання запровадження оцінювання повсякденного функціонування особи»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1338-2024-%D0%BF",
+      "lastEditionDate": "2026-03-11",
+      "editionCount": 8,
+      "previousEditionDate": "2025-11-28",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "704-2017-п",
+      "title": "Постанова КМУ № 704 від 30.08.2017 «Про грошове забезпечення військовослужбовців, осіб рядового і начальницького складу»",
+      "url": "https://zakon.rada.gov.ua/laws/show/704-2017-%D0%BF",
+      "lastEditionDate": "2026-02-28",
+      "editionCount": 16,
+      "previousEditionDate": "2026-01-01",
+      "tags": [
+        "demob",
+        "payment"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1175-2018-п",
+      "title": "Постанова КМУ №1175-2018-п — Мінветеранів",
+      "url": "https://zakon.rada.gov.ua/laws/show/1175-2018-%D0%BF",
+      "lastEditionDate": "2026-02-26",
+      "editionCount": 19,
+      "previousEditionDate": "2026-01-06",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "719-2016-п",
+      "title": "Постанова КМУ № 719 «Про надання грошової компенсації за житло»",
+      "url": "https://zakon.rada.gov.ua/laws/show/719-2016-%D0%BF",
+      "lastEditionDate": "2026-02-17",
+      "editionCount": 14,
+      "previousEditionDate": "2025-03-11",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "856-2022-п",
+      "title": "Державна програма «єОселя» (Постанова Кабінету Міністрів України від 02.08.2022 № 856 та зміни від 10.12.2025)",
+      "url": "https://zakon.rada.gov.ua/laws/show/856-2022-%D0%BF",
+      "lastEditionDate": "2026-02-10",
+      "editionCount": 16,
+      "previousEditionDate": "2026-01-11",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "432-2017-п",
+      "title": "Постанова КМУ №432-2017-п — соцпрофадаптація ветеранів",
+      "url": "https://zakon.rada.gov.ua/laws/show/432-2017-%D0%BF",
+      "lastEditionDate": "2026-01-26",
+      "editionCount": 18,
+      "previousEditionDate": "2025-12-05",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "875-12",
+      "title": "Закон України №875-XII — соцзахищеність осіб з інвалідністю",
+      "url": "https://zakon.rada.gov.ua/laws/show/875-12",
+      "lastEditionDate": "2026-01-10",
+      "editionCount": 60,
+      "previousEditionDate": "2026-01-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "3551-12",
+      "title": "Закон України № 3551-XII «Про статус ветеранів війни, гарантії їх соціального захисту»",
+      "url": "https://zakon.rada.gov.ua/laws/show/3551-12",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 96,
+      "previousEditionDate": "2025-10-23",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "796-12",
+      "title": "Закон України № 2012-VIII «Про статус і соціальний захист громадян, які постраждали внаслідок Чорнобильської катастрофи» (аналогія для поранених захисників)",
+      "url": "https://zakon.rada.gov.ua/laws/show/796-12",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 63,
+      "previousEditionDate": "2025-09-07",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2262-12",
+      "title": "Закон України № 2262-XII «Про пенсійне забезпечення осіб, звільнених з військової служби, та деяких інших осіб»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2262-12",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 90,
+      "previousEditionDate": "2025-09-07",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1533-14",
+      "title": "Закон України №1533-III — страхування на випадок безробіття",
+      "url": "https://zakon.rada.gov.ua/laws/show/1533-14",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 62,
+      "previousEditionDate": "2025-09-12",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2961-15",
+      "title": "Закон України №2961-IV — реабілітація осіб з інвалідністю",
+      "url": "https://zakon.rada.gov.ua/laws/show/2961-15",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 37,
+      "previousEditionDate": "2025-04-04",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1053-20",
+      "title": "Закон України №1053-IX — реабілітація в сфері охорони здоров’я",
+      "url": "https://zakon.rada.gov.ua/laws/show/1053-20",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 10,
+      "previousEditionDate": "2025-01-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "321-2012-п",
+      "title": "Постанова Кабінету Міністрів України «Про затвердження Порядку забезпечення деяких категорій осіб протезно-ортопедичними виробами та засобами реабілітації»",
+      "url": "https://zakon.rada.gov.ua/laws/show/321-2012-%D0%BF",
+      "lastEditionDate": "2026-01-01",
+      "editionCount": 22,
+      "previousEditionDate": "2025-09-11",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "168-2022-п",
+      "title": "Постанова КМУ № 168 від 28.02.2022 «Про питання деяких виплат військовослужбовцям»",
+      "url": "https://zakon.rada.gov.ua/laws/show/168-2022-%D0%BF",
+      "lastEditionDate": "2025-12-18",
+      "editionCount": 25,
+      "previousEditionDate": "2025-11-04",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "207-2013-п",
+      "title": "Постанова КМУ №207-2013-п — ваучери на навчання",
+      "url": "https://zakon.rada.gov.ua/laws/show/207-2013-%D0%BF",
+      "lastEditionDate": "2025-11-04",
+      "editionCount": 15,
+      "previousEditionDate": "2025-04-26",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "685-2015-п",
+      "title": "Постанова КМУ №685-2015-п — статус осіб з інвалідністю внаслідок війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/685-2015-%D0%BF",
+      "lastEditionDate": "2025-10-29",
+      "editionCount": 16,
+      "previousEditionDate": "2025-07-19",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "975-2016-п",
+      "title": "Постанова КМУ №975-2016-п — цільова підтримка освіти",
+      "url": "https://zakon.rada.gov.ua/laws/show/975-2016-%D0%BF",
+      "lastEditionDate": "2025-10-08",
+      "editionCount": 8,
+      "previousEditionDate": "2025-05-23",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "413-2014-п",
+      "title": "Постанова КМУ № 413 «Про затвердження Порядку надання та позбавлення статусу УБД»",
+      "url": "https://zakon.rada.gov.ua/laws/show/413-2014-%D0%BF",
+      "lastEditionDate": "2025-10-03",
+      "editionCount": 32,
+      "previousEditionDate": "2025-06-25",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "5067-17",
+      "title": "Закон України № 5067-VI «Про зайнятість населення»",
+      "url": "https://zakon.rada.gov.ua/laws/show/5067-17",
+      "lastEditionDate": "2025-09-12",
+      "editionCount": 52,
+      "previousEditionDate": "2025-05-02",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "975-2013-п",
+      "title": "Постанова Кабінету Міністрів України від 25.12.2013 № 975 «Про затвердження Порядку призначення і виплати одноразової грошової допомоги у разі загибелі (смерті), інвалідності або часткової втрати працездатності без встановлення інвалідності»",
+      "url": "https://zakon.rada.gov.ua/laws/show/975-2013-%D0%BF",
+      "lastEditionDate": "2025-08-31",
+      "editionCount": 14,
+      "previousEditionDate": "2025-08-21",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1549-14",
+      "title": "Закон України № 1549-III «Про державні нагороди України»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1549-14",
+      "lastEditionDate": "2025-08-30",
+      "editionCount": 30,
+      "previousEditionDate": "2024-11-21",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1338-2022-п",
+      "title": "Постанова КМУ №1338-2022-п — психологічна допомога ветеранам",
+      "url": "https://zakon.rada.gov.ua/laws/show/1338-2022-%D0%BF",
+      "lastEditionDate": "2025-08-02",
+      "editionCount": 8,
+      "previousEditionDate": "2024-12-25",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2505-19",
+      "title": "Закон України від 12.07.2018 № 2505-VIII «Про правовий статус осіб, зниклих безвісти за особливих обставин»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2505-19",
+      "lastEditionDate": "2025-07-04",
+      "editionCount": 6,
+      "previousEditionDate": "2025-01-10",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "984-2023-п",
+      "title": "Постанова КМУ №984-2023-п — Український ветеранський фонд",
+      "url": "https://zakon.rada.gov.ua/laws/show/984-2023-%D0%BF",
+      "lastEditionDate": "2025-04-26",
+      "editionCount": 3,
+      "previousEditionDate": "2025-01-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1706-18",
+      "title": "Закон України №1706-VII — пенсії ВПО-ветеранам",
+      "url": "https://zakon.rada.gov.ua/laws/show/1706-18",
+      "lastEditionDate": "2025-04-04",
+      "editionCount": 26,
+      "previousEditionDate": "2025-03-05",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "458-96-п",
+      "title": "Постанова КМУ №458-96-п — комісії зі статусу учасника війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/458-96-%D0%BF",
+      "lastEditionDate": "2025-01-01",
+      "editionCount": 8,
+      "previousEditionDate": "2024-10-01",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1317-2009-п",
+      "title": "Постанова КМУ № 1317 «Про затвердження Положення про МСЕК»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1317-2009-%D0%BF",
+      "lastEditionDate": "2025-01-01",
+      "editionCount": 26,
+      "previousEditionDate": "2024-11-12",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2120-20",
+      "title": "Закон України № 2120-IX «Про внесення змін до Закону України «Про споживче кредитування» щодо кредитних канікул»",
+      "url": "https://zakon.rada.gov.ua/laws/show/2120-20",
+      "lastEditionDate": "2025-01-01",
+      "editionCount": 2,
+      "previousEditionDate": "2022-03-15",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1489-14",
+      "title": "Закон України про психологічну допомогу",
+      "url": "https://zakon.rada.gov.ua/laws/show/1489-14",
+      "lastEditionDate": "2025-01-01",
+      "editionCount": 21,
+      "previousEditionDate": "2024-11-15",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "94-94-п",
+      "title": "Постанова КМУ №94-94-п — надання пільг ветеранам",
+      "url": "https://zakon.rada.gov.ua/laws/show/94-94-%D0%BF",
+      "lastEditionDate": "2024-12-17",
+      "editionCount": 14,
+      "previousEditionDate": "2024-05-18",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1021-2024-п",
+      "title": "Постанова КМУ №1021-2024-п — індивідуальні програми реабілітації",
+      "url": "https://zakon.rada.gov.ua/laws/show/1021-2024-%D0%BF",
+      "lastEditionDate": "2024-08-30",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "104-2024-п",
+      "title": "Постанова КМУ № 104 від 07.02.2024 — оновлено розмір ОГД при загибелі",
+      "url": "https://zakon.rada.gov.ua/laws/show/104-2024-%D0%BF",
+      "lastEditionDate": "2024-01-30",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "103-2018-п",
+      "title": "Постанова КМУ № 103 — мінімальні розміри військових пенсій",
+      "url": "https://zakon.rada.gov.ua/laws/show/103-2018-%D0%BF",
+      "lastEditionDate": "2023-05-20",
+      "editionCount": 3,
+      "previousEditionDate": "2020-01-01",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "266-2023-п",
+      "title": "Постанова Кабінету Міністрів України від 24.03.2023 № 266 «Деякі питання забезпечення житлом деяких категорій осіб, які брали участь у бойових діях на захист України»",
+      "url": "https://zakon.rada.gov.ua/laws/show/266-2023-%D0%BF",
+      "lastEditionDate": "2023-03-24",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1079-2017-п",
+      "title": "Постанова КМУ про лікування за кордоном",
+      "url": "https://zakon.rada.gov.ua/laws/show/1079-2017-%D0%BF",
+      "lastEditionDate": "2023-02-07",
+      "editionCount": 4,
+      "previousEditionDate": "2022-05-20",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "2864-20",
+      "title": "Закон України №2864-IX — розширення категорій УБД",
+      "url": "https://zakon.rada.gov.ua/laws/show/2864-20",
+      "lastEditionDate": "2023-01-12",
+      "editionCount": 1,
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1018-2022-п",
+      "title": "Державна цільова програма розвитку системи психічного здоров’я та психосоціальної підтримки населення (рішення КМУ та МОЗ, 2023–2025)",
+      "url": "https://zakon.rada.gov.ua/laws/show/1018-2022-%D0%BF",
+      "lastEditionDate": "2022-08-19",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "76-2022-п",
+      "title": "Постанова КМУ про бронювання військовозобов’язаних",
+      "url": "https://zakon.rada.gov.ua/laws/show/76-2022-%D0%BF",
+      "lastEditionDate": "2022-02-02",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "460-2014-п",
+      "title": "Постанова КМУ № 460 від 17.09.2014 «Про затвердження Порядку та умов виплати деяким категоріям військовослужбовців одноразової грошової допомоги у разі звільнення з військової служби»",
+      "url": "https://zakon.rada.gov.ua/laws/show/460-2014-%D0%BF",
+      "lastEditionDate": "2022-02-01",
+      "editionCount": 2,
+      "previousEditionDate": "2014-09-17",
+      "tags": [
+        "demob",
+        "payment"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "667-2021-п",
+      "title": "Постанова КМУ №667-2021-п — фізкультурно-спортивна реабілітація",
+      "url": "https://zakon.rada.gov.ua/laws/show/667-2021-%D0%BF",
+      "lastEditionDate": "2021-06-30",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1525-20",
+      "title": "Закон України № 1525-IX «Про правовий статус осіб, зниклих безвісти за особливих обставин»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1525-20",
+      "lastEditionDate": "2021-06-03",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "411-2021-п",
+      "title": "Постанова КМУ № 411 «Про створення Українського ветеранського фонду»",
+      "url": "https://zakon.rada.gov.ua/laws/show/411-2021-%D0%BF",
+      "lastEditionDate": "2021-04-21",
+      "editionCount": 1,
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "z0844-08",
+      "title": "Наказ Міністерства оборони України від 14.08.2008 № 402 «Про затвердження Положення про військово-лікарську експертизу в Збройних Силах України» (з наступними змінами)",
+      "url": "https://zakon.rada.gov.ua/laws/show/z0844-08",
+      "lastEditionDate": "2020-11-03",
+      "editionCount": 3,
+      "previousEditionDate": "2012-01-10",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "848-2018-п",
+      "title": "Постанова КМУ про оплату ЖКГ пільговикам",
+      "url": "https://zakon.rada.gov.ua/laws/show/848-2018-%D0%BF",
+      "lastEditionDate": "2020-10-27",
+      "editionCount": 5,
+      "previousEditionDate": "2020-09-17",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "739-2015-п",
+      "title": "Постанова КМУ №739-2015-п — учасники війни",
+      "url": "https://zakon.rada.gov.ua/laws/show/739-2015-%D0%BF",
+      "lastEditionDate": "2019-04-09",
+      "editionCount": 3,
+      "previousEditionDate": "2017-06-16",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "1497-2004-п",
+      "title": "Постанова КМУ № 1497 «Про щомісячне грошове утримання осіб, нагороджених державними нагородами»",
+      "url": "https://zakon.rada.gov.ua/laws/show/1497-2004-%D0%BF",
+      "lastEditionDate": "2015-07-01",
+      "editionCount": 10,
+      "previousEditionDate": "2012-06-27",
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "3477-15",
+      "title": "Закон України «Про виконання рішень та застосування практики Європейського суду з прав людини»",
+      "url": "https://zakon.rada.gov.ua/laws/show/3477-15",
+      "lastEditionDate": "2012-12-02",
+      "editionCount": 3,
+      "previousEditionDate": "2011-04-13",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "975-2010-п",
+      "title": "Постанова КМУ № 975 від 28.07.2010 «Про затвердження Порядку призначення і виплати одноразової грошової допомоги»",
+      "url": "https://zakon.rada.gov.ua/laws/show/975-2010-%D0%BF",
+      "lastEditionDate": "2010-10-27",
+      "editionCount": 1,
+      "tags": [
+        "demob"
+      ],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    },
+    {
+      "lawId": "995_151",
+      "title": "Женевські конвенції від 12.08.1949 року та Додаткові протоколи I–III (ратифіковані Україною)",
+      "url": "https://zakon.rada.gov.ua/laws/show/995_151",
+      "lastEditionDate": "2006-02-08",
+      "editionCount": 5,
+      "previousEditionDate": "2005-12-08",
+      "tags": [],
+      "detectedAt": "2026-05-04T06:43:56.621Z"
+    }
+  ]
+}

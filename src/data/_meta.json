@@ -1,0 +1,57 @@
+{
+  "bpd": {
+    "updated": "2026-05-04",
+    "count": 417,
+    "source": "https://www.google.com/maps/d/viewer?mid=1er4ZNvS4q5ULH8SJpBRxs_-nqqYnNoYg"
+  },
+  "dcz": {
+    "updated": "2026-05-04",
+    "count": 430,
+    "source": "https://www.dcz.gov.ua"
+  },
+  "edbo": {
+    "updated": "2026-05-04",
+    "count": 464,
+    "source": "https://registry.edbo.gov.ua"
+  },
+  "rehabukraine": {
+    "updated": "2026-05-04",
+    "count": 461,
+    "source": "https://rehabukraine.com/centers/"
+  },
+  "eveteran": {
+    "updated": "2026-05-04",
+    "count": 182,
+    "source": "https://eveteran.gov.ua"
+  },
+  "veteranpro": {
+    "updated": "2026-05-04",
+    "count": 500,
+    "source": "https://veteranpro.gov.ua"
+  },
+  "your-way": {
+    "updated": "2026-05-04",
+    "count": 3,
+    "source": "https://veteranpro.gov.ua"
+  },
+  "wikilegalaid": {
+    "updated": "2026-05-04",
+    "count": 109,
+    "source": "https://legalaid.wiki"
+  },
+  "mva-news": {
+    "updated": "2026-05-05",
+    "count": 100,
+    "source": "https://mva.gov.ua/"
+  },
+  "rada-amendments": {
+    "updated": "2026-05-04",
+    "count": 66,
+    "source": "https://zakon.rada.gov.ua"
+  },
+  "pfu-news": {
+    "updated": "2026-05-04",
+    "count": 30,
+    "source": "https://www.pfu.gov.ua/"
+  }
+}

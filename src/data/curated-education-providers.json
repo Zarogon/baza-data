@@ -1,0 +1,219 @@
+{
+  "source": "brain/wiki/projects/veteran-app/providers/education-providers.md",
+  "updated": "2026-04-17",
+  "categories": [
+    {
+      "id": "gov_programs",
+      "title": "Державні програми",
+      "icon": "🏛️",
+      "providers": [
+        {
+          "name": "Ваучер ДСЗ на навчання",
+          "spec": "Підготовка/перепідготовка/підвищення кваліфікації на 150+ професій і спеціальностей",
+          "site": "https://dcz.gov.ua/profnavch/voucher",
+          "phone": "1518",
+          "payment": "До 33 280 грн · держава оплачує"
+        },
+        {
+          "name": "Пільги при вступі до ЗВО (ст. 15)",
+          "spec": "Бакалаврат: співбесіда замість НМТ (квота-1), переведення контракт→бюджет. Магістратура: співбесіда з іноз. мови, фаховий іспит",
+          "site": "https://mon.gov.ua",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Освітній сертифікат (для дітей ветеранів)",
+          "spec": "Студенти до 23 років (1–3 курс бакалавра або 1 курс магістра), діти загиблих/УБД/з інвалідністю/полонених",
+          "site": "https://diia.gov.ua",
+          "payment": "Безкоштовно (кошти на рахунок ЗВО)"
+        },
+        {
+          "name": "Портал е-Ветеран",
+          "spec": "Інформація про пільги, у т.ч. на навчання",
+          "site": "https://eveteran.gov.ua",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Дія.Освіта — «Як знайти роботу після служби»",
+          "spec": "Профорієнтація, резюме, співбесіди, адаптація, ментальне здоровʼя. Партнер — Посольство США",
+          "site": "https://osvita.diia.gov.ua/en/courses/find-a-job-after-military-service",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Дія.Бізнес — управлінські навички",
+          "spec": "Онлайн, 10 тижнів, вечір",
+          "site": "https://business.diia.gov.ua",
+          "payment": "Безкоштовно"
+        }
+      ]
+    },
+    {
+      "id": "scholarships",
+      "title": "Стипендії (міжнар. і всеукр.)",
+      "icon": "🎓",
+      "providers": [
+        {
+          "name": "AUK «Honor» — American University Kyiv",
+          "spec": "До 99% покриття бакалавр/магістратура АЮК для ветеранів/родин. Діти загиблих, УБД, вдови/вдівці",
+          "site": "https://auk.edu.ua",
+          "payment": "Стипендія (щорічно серпень-вересень)"
+        },
+        {
+          "name": "House of Europe (ЄС)",
+          "spec": "Гранти і мобільність: дослідницькі для магістрантів, персональні проєкти €1000–€4000, travel-гранти до €4000",
+          "site": "https://houseofeurope.org.ua",
+          "payment": "Гранти"
+        },
+        {
+          "name": "ETF — European Training Foundation",
+          "spec": "Каталог стипендій для українських студентів у ЄС",
+          "site": "https://etf.europa.eu/uk/faqs/scholarships-support-opportunities-ukrainian-students",
+          "payment": "Стипендії"
+        },
+        {
+          "name": "Fulbright UA, DAAD, Marshall Center",
+          "spec": "Традиційні програми (академічні + військово-освітні керівного рівня)",
+          "payment": "Стипендії"
+        }
+      ]
+    },
+    {
+      "id": "it_education",
+      "title": "IT-освіта (безкоштовно)",
+      "icon": "💻",
+      "providers": [
+        {
+          "name": "Mate Academy — «IT for Veterans»",
+          "spec": "Frontend, Fullstack, Python, QA, UI/UX, Data Analyst (3–6 міс фултайм)",
+          "address": "Офіс Київ, б. Дружби Народів, 18/7",
+          "site": "https://mate.academy/it-for-veterans",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Академія для Героїв (Львів)",
+          "spec": "Full Stack, Python Backend, Data Engineering, System Administration, Marketing & Sales, PM & QA (до 10 міс)",
+          "address": "Львів, пл. Є. Петрушевича, 3",
+          "site": "https://academy4heroes.com",
+          "phone": "+38 099 644 38 10",
+          "email": "press@academy4heroes.com",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "BraveIT Education",
+          "spec": "Java, Frontend, PM, BA, QA, QC (2–4 міс, вечір)",
+          "site": "https://braveit.org.ua",
+          "phone": "+38 063 674 12 19",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Projector Foundation + Uklon",
+          "spec": "IT PM, SMM, дизайн, підприємництво",
+          "site": "https://osvitaveteraniv.prjctrfoundation.com",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "«Код Відважних» (БФ)",
+          "spec": "QA, Front-End, Back-End, BA, UX/UI, PM, Data Analytics + менторство",
+          "site": "https://codeofbrave.org",
+          "email": "info@codeofbrave.org",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Beetroot Academy + Helvetas",
+          "spec": "Frontend, Python, PM. Онлайн (Київ, Чернігів, Полтава, Дніпро, Харків, Суми)",
+          "site": "https://beetroot.academy",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Prometheus — «Ветеранське коло»",
+          "spec": "PM, HR, BA + річний карʼєрний супровід. Харків, Дніпро, Полтава, Запоріжжя, Одеса + онлайн",
+          "site": "https://prometheus.org.ua/prometheus-plus/veteran-circle",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Kharkiv IT Cluster — Veterans2Tech",
+          "spec": "Рескілінг у IT + менторство + HR-супровід. Харків + онлайн",
+          "site": "https://clusters.org.ua",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Reskilling Ukraine / UNIT",
+          "spec": "Рескілінг, треки для ветеранів (очно/онлайн)",
+          "site": "https://reskillingukraine.com",
+          "payment": "Безкоштовно"
+        }
+      ]
+    },
+    {
+      "id": "uvf",
+      "title": "Курси УВФ та партнерів",
+      "icon": "📚",
+      "providers": [
+        {
+          "name": "УКУ «Повернення з війни: розум, тіло, соціум»",
+          "spec": "Психологічна і соціальна адаптація. Через УВФ",
+          "site": "https://veteranfund.com.ua/projects",
+          "phone": "0 800 33 20 29",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "Google AI Essentials (Coursera)",
+          "spec": "Базовий AI. Через УВФ",
+          "site": "https://veteranfund.com.ua/projects",
+          "payment": "Безкоштовно"
+        },
+        {
+          "name": "OSINT-аналітика (RUSI + Центр оборонних реформ)",
+          "spec": "Аналітика відкритих джерел",
+          "site": "https://veteranfund.com.ua/projects",
+          "payment": "Безкоштовно"
+        }
+      ]
+    },
+    {
+      "id": "aggregators",
+      "title": "Агрегатори і довідники",
+      "icon": "🧭",
+      "providers": [
+        {
+          "name": "Happy Monday — добірка можливостей",
+          "site": "https://happymonday.ua/dobirka-mozhlyvostej-dlya-veteraniv"
+        },
+        {
+          "name": "EnableMe — освітні програми для ветеранів",
+          "site": "https://enableme.com.ua"
+        },
+        {
+          "name": "Prostir.ua — гранти, навчання, НГО",
+          "site": "https://prostir.ua"
+        },
+        {
+          "name": "Ветеран PRO — державні сервіси",
+          "site": "https://veteranpro.gov.ua"
+        }
+      ]
+    },
+    {
+      "id": "hotlines",
+      "title": "Гарячі лінії",
+      "icon": "phone",
+      "providers": [
+        {
+          "name": "ДСЗ — ваучер, навчання",
+          "phone": "1518"
+        },
+        {
+          "name": "УВФ — курси, стипендії, консультації",
+          "phone": "0 800 33 20 29"
+        },
+        {
+          "name": "Академія для Героїв (Львів)",
+          "phone": "+38 099 644 38 10"
+        },
+        {
+          "name": "BraveIT Education",
+          "phone": "+38 063 674 12 19"
+        }
+      ]
+    }
+  ]
+}

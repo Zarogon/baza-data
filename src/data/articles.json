@@ -1,0 +1,7 @@
+{
+  "source": "curated admin",
+  "updated": "2026-04-21",
+  "count": 0,
+  "description": "Куровані статті — контент який пишеться в адмінці і рендериться у ArticleScreen. Використовуються як target для Insight.action.type === 'article'.",
+  "articles": []
+}
