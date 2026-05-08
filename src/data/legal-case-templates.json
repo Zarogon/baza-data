@@ -1,0 +1,172 @@
+{
+  "source": "База · legal case templates",
+  "updated": "2026-05-08",
+  "reviewedAt": "2026-05-08",
+  "version": "1.0.0",
+  "disclaimer": "Це не замінює консультацію юриста. Для індивідуального випадку зверніться до БПД або адвоката.",
+  "templates": [
+    {
+      "id": "injury",
+      "title": "Поранення / форма №5",
+      "summary": "Зафіксувати обставини поранення, зібрати медичні документи і контролювати видачу довідки про обставини травми.",
+      "updated": "2026-05-08",
+      "source": "БПД, WikiLegalAid, профільні памʼятки для військовослужбовців",
+      "reviewedAt": "2026-05-08",
+      "version": "1.0.0",
+      "steps": [
+        {
+          "id": "injury-medical-fixation",
+          "title": "Зафіксувати поранення медично",
+          "summary": "Зберіть виписку, висновки лікарів і документи про лікування.",
+          "documentIds": ["medical-extract", "vlk-decision"]
+        },
+        {
+          "id": "injury-command-report",
+          "title": "Подати рапорт командуванню",
+          "summary": "Попросіть службове розслідування та довідку про обставини травми.",
+          "documentIds": ["report-copy", "injury-circumstances"]
+        },
+        {
+          "id": "injury-form-5-control",
+          "title": "Контролювати форму №5",
+          "summary": "Фіксуйте дату подання, контакт відповідального і відповідь частини.",
+          "documentIds": ["form-5", "incoming-number"]
+        }
+      ],
+      "documents": [
+        { "id": "medical-extract", "title": "Медичні виписки", "hint": "Виписки зі стаціонару, довідки, результати обстежень." },
+        { "id": "vlk-decision", "title": "Висновок ВЛК або медичний висновок", "hint": "Якщо уже проходили ВЛК або ЛКК." },
+        { "id": "report-copy", "title": "Копія рапорту", "hint": "Збережіть фото/номер реєстрації, у v1 без файлів у додатку." },
+        { "id": "injury-circumstances", "title": "Довідка про обставини травми", "hint": "Ключовий документ для подальших виплат і статусів." },
+        { "id": "form-5", "title": "Форма №5", "hint": "Якщо її видають у вашій процедурі." },
+        { "id": "incoming-number", "title": "Вхідний номер звернення", "hint": "Номер, дата, відповідальна посадова особа." }
+      ],
+      "deadlineHints": [
+        { "id": "injury-report", "title": "Рапорт після стабілізації стану", "hint": "Подайте якнайшвидше, щоб не втратити слід документів." }
+      ],
+      "relatedScreens": ["LegalProviders", "WikiArticles", "LegalLibrary"]
+    },
+    {
+      "id": "appeal",
+      "title": "Оскарження ВЛК / ЕКОПФО",
+      "summary": "Підготувати пакет документів, зафіксувати дедлайн і подати скаргу або заяву на перегляд рішення.",
+      "updated": "2026-05-08",
+      "source": "БПД, WikiLegalAid, нормативні акти щодо ВЛК та оцінювання функціонування",
+      "reviewedAt": "2026-05-08",
+      "version": "1.0.0",
+      "steps": [
+        {
+          "id": "appeal-get-decision",
+          "title": "Отримати копію рішення",
+          "summary": "Потрібен текст рішення ВЛК/ЕКОПФО та дата його отримання.",
+          "documentIds": ["appeal-decision", "medical-extract"]
+        },
+        {
+          "id": "appeal-collect-evidence",
+          "title": "Зібрати медичні докази",
+          "summary": "Підготуйте виписки, результати обстежень, консультації профільних лікарів.",
+          "documentIds": ["medical-extract", "doctor-opinion"]
+        },
+        {
+          "id": "appeal-submit",
+          "title": "Подати скаргу або заяву",
+          "summary": "Зафіксуйте спосіб подання, вхідний номер і дату наступної дії.",
+          "documentIds": ["appeal-complaint", "incoming-number"]
+        }
+      ],
+      "documents": [
+        { "id": "appeal-decision", "title": "Копія рішення ВЛК/ЕКОПФО", "hint": "З датою отримання або іншим підтвердженням." },
+        { "id": "medical-extract", "title": "Медичні виписки", "hint": "Усі релевантні документи щодо стану здоровʼя." },
+        { "id": "doctor-opinion", "title": "Висновок профільного лікаря", "hint": "Бажано з чітким звʼязком зі спірним рішенням." },
+        { "id": "appeal-complaint", "title": "Скарга / заява на перегляд", "hint": "Збережіть текст і спосіб подання." },
+        { "id": "incoming-number", "title": "Вхідний номер", "hint": "Номер звернення, дата, установа." }
+      ],
+      "deadlineHints": [
+        { "id": "appeal-confirm-deadline", "title": "Перевірити процесуальний строк", "hint": "Строк залежить від процедури та рішення. Підтвердіть його з БПД або юристом." }
+      ],
+      "relatedScreens": ["LegalProviders", "WikiArticles", "LegalLibrary"]
+    },
+    {
+      "id": "payments",
+      "title": "Невиплата коштів",
+      "summary": "Зібрати розрахунки, накази і звернення щодо невиплаченого грошового забезпечення або компенсацій.",
+      "updated": "2026-05-08",
+      "source": "БПД, WikiLegalAid, практичні памʼятки щодо грошового забезпечення",
+      "reviewedAt": "2026-05-08",
+      "version": "1.0.0",
+      "steps": [
+        {
+          "id": "payments-define-debt",
+          "title": "Визначити що саме не виплачено",
+          "summary": "Опишіть період, вид виплати і суму, якщо вона відома.",
+          "documentIds": ["payment-calculation", "bank-statement"]
+        },
+        {
+          "id": "payments-request-info",
+          "title": "Запитати розрахунок у частини або органу",
+          "summary": "Подайте письмове звернення і зафіксуйте вхідний номер.",
+          "documentIds": ["payment-request", "incoming-number"]
+        },
+        {
+          "id": "payments-complaint",
+          "title": "Готувати скаргу або позов",
+          "summary": "Після відповіді або мовчання установи зверніться до БПД/адвоката.",
+          "documentIds": ["official-reply", "complaint-draft"]
+        }
+      ],
+      "documents": [
+        { "id": "payment-calculation", "title": "Власний розрахунок боргу", "hint": "Період, вид виплати, очікувана сума." },
+        { "id": "bank-statement", "title": "Виписка з банку", "hint": "Показує фактичні надходження." },
+        { "id": "payment-request", "title": "Звернення про розрахунок", "hint": "До військової частини, ТЦК, органу соцзахисту або іншої установи." },
+        { "id": "incoming-number", "title": "Вхідний номер", "hint": "Номер і дата подання звернення." },
+        { "id": "official-reply", "title": "Офіційна відповідь", "hint": "Або зафіксована відсутність відповіді." },
+        { "id": "complaint-draft", "title": "Чернетка скарги/позову", "hint": "Погодьте з юристом перед поданням." }
+      ],
+      "deadlineHints": [
+        { "id": "payments-reply", "title": "Контроль відповіді на звернення", "hint": "Поставте власну дату перевірки після подання звернення." }
+      ],
+      "relatedScreens": ["Payments", "LegalProviders", "WikiArticles"]
+    },
+    {
+      "id": "creditors",
+      "title": "Захист від кредиторів",
+      "summary": "Зібрати договори, листування і підготувати звернення щодо реструктуризації, канікул або захисту від тиску.",
+      "updated": "2026-05-08",
+      "source": "БПД, WikiLegalAid, розʼяснення щодо кредитних зобовʼязань військових",
+      "reviewedAt": "2026-05-08",
+      "version": "1.0.0",
+      "steps": [
+        {
+          "id": "creditors-inventory",
+          "title": "Зібрати всі кредитні зобовʼязання",
+          "summary": "Складіть список кредиторів, договорів, сум і контактів.",
+          "documentIds": ["credit-contracts", "creditor-list"]
+        },
+        {
+          "id": "creditors-status-proof",
+          "title": "Підготувати підтвердження статусу",
+          "summary": "Потрібні документи, які підтверджують службу або інший релевантний статус.",
+          "documentIds": ["service-proof", "id-doc"]
+        },
+        {
+          "id": "creditors-request",
+          "title": "Подати звернення кредитору",
+          "summary": "Просіть письмову відповідь і фіксуйте кожен контакт.",
+          "documentIds": ["creditor-request", "creditor-reply"]
+        }
+      ],
+      "documents": [
+        { "id": "credit-contracts", "title": "Кредитні договори", "hint": "Договори, графіки платежів, реквізити кредитора." },
+        { "id": "creditor-list", "title": "Список кредиторів", "hint": "Назва, сума, контакт, поточний статус." },
+        { "id": "service-proof", "title": "Підтвердження служби/статусу", "hint": "Довідка, посвідчення або інший документ." },
+        { "id": "id-doc", "title": "Документ особи", "hint": "Паспорт/РНОКПП за потреби." },
+        { "id": "creditor-request", "title": "Звернення кредитору", "hint": "Про реструктуризацію, канікули або припинення неправомірних дій." },
+        { "id": "creditor-reply", "title": "Відповідь кредитора", "hint": "Письмова відповідь або фіксація її відсутності." }
+      ],
+      "deadlineHints": [
+        { "id": "creditors-next-contact", "title": "Наступний контакт з кредитором", "hint": "Поставте дату перевірки відповіді або консультації з БПД." }
+      ],
+      "relatedScreens": ["LegalProviders", "WikiArticles"]
+    }
+  ]
+}
